@@ -1,0 +1,6 @@
+This repo is full of little example's of ""C Programming concepts"" (and notes for myself...) i have learned from K.N King's book: "C Programming, A modern Approach." and maybe other sources... (I am currently learning the basics with that book.)
+
+TAKE ALL OF THIS WITH A GRAIN OF SALT, I AM AT NO MEANS A PROFESSIONAL, AND I CAN'T ASSURE THAT I DO EVERYTHING IN THE BEST WAY POSSIBLE...
+
+And if you somehow found this repo, And find something that i could have done better, Feel free to make an 'issue' or a 'merge request' to make it better, though... You must include an explanation of why the way you made it is the better approach...
+I highly encourage doing the above, Because i want to learn. :)
